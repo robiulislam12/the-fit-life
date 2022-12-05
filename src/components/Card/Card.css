@@ -1,0 +1,32 @@
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 12px 10px;
+}
+
+.card img,
+.blog img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.card-body,
+.blog-body {
+    margin: 10px 0 20px;
+}
+
+.card-body h2 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.card-body p {
+    color: #848484;
+    font-size: 18px;
+    line-height: 25px;
+    margin: 10px 0;
+}
+
+.card-body h4 {
+    font-weight: 400;
+}

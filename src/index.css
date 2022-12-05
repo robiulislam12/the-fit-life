@@ -1,0 +1,28 @@
+/* 
+ - Variable css
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+:root {
+  --bg-color: #D4E5ED;
+  --font-color: #000;
+  --card-color: #fff;
+  --btn-color: #5D5FEF;
+  --btn-hover-color: #27AE60;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--font-color);
+  font-size: 16px;
+  line-height: 1.5rem;
+  font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,9 @@
+.blogs-container {
+    padding: 40px 0;
+}
+
+.blog {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 12px 10px;
+}
